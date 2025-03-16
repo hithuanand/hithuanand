@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hithu Anand</h1>
-<h3 align="center">Python programmer, teacher and freelancer.</h3>
+<h3 align="center">python programmer, teacher and freelancer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hithuanand&label=Profile%20views&color=0e75b6&style=flat" alt="hithuanand" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hithuanand@gmail.com**
 
-- ⚡ Fun fact **Humans are not very logical**
+- ⚡ Fun fact **Humans are not very logical!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
